@@ -46,7 +46,7 @@ A simple and responsive React application for browsing a menu, adding items to a
   ```
   
 - Open second terminal and type:
-- 
+ 
   ```
   npm run dev
   ```
