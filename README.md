@@ -40,17 +40,23 @@ A simple and responsive React application for browsing a menu, adding items to a
 
 ### Run the app 
 - Open first terminal (you must be in backend folder) and type:
+  
   ```
   node app.js
   ```
+  
 - Open second terminal and type:
+- 
   ```
   npm run dev
   ```
+  
   or (depending on the setup):
+  
   ```
   npm start
   ```
+  
 - Open the printed local URL from your terminal (commonly http://localhost:5173 or http://localhost:3000).
 
 
