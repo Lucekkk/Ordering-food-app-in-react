@@ -28,13 +28,10 @@ A simple and responsive React application for browsing a menu, adding items to a
    ```
    cd Ordering-food-app-in-react
    ```
-3. Install dependencies:
+3. Install dependencies (also use 'npm install' in backdend folder):
    ```
    npm install
    ```
-   Also use `npm install` in backend folder
-   ``
- 
    (Use `yarn` or `npm` if you prefer.)
 
 
