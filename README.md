@@ -21,17 +21,21 @@ A simple and responsive React application for browsing a menu, adding items to a
 
 ### Installation
 1. Clone the repository:
+   
    ```
    git clone https://github.com/Lucekkk/Ordering-food-app-in-react.git
    ```
 2. Navigate into the project directory:
+   
    ```
    cd Ordering-food-app-in-react
    ```
 3. Install dependencies (also use 'npm install' in backdend folder):
+   
    ```
    npm install
    ```
+   
    (Use `yarn` or `npm` if you prefer.)
 
 
